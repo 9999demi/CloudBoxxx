@@ -1,0 +1,1 @@
+module.exports = { appId: '2GBAg7yXwWdlMjuWWApCjjjk-gzGzoHsz', appSecret: 'yccAV0rudUkHiE2E1nCCLlGS'}

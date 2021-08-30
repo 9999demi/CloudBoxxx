@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "home",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "bg": "/pages/home/component/background",
+    "info-popup": "/pages/home/component/get_user_info_popup"
+  }
+}

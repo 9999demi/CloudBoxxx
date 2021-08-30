@@ -1,0 +1,1 @@
+<block wx:if="{{!hasNickName}}"><view data-event-opts="{{[['tap',[['getUserProfile',['$event']]]]]}}" class="get-info" bindtap="__e"></view></block>

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-form-item": "/node-modules/uview-ui/components/u-form-item/u-form-item",
+    "list-cell": "/components/list-cell/list-cell"
+  }
+}

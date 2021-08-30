@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/user/user",
+    "pages/stuff/stuff",
+    "pages/user/modechoose",
+    "pages/user/stu_register",
+    "pages/user/adm_register",
+    "pages/user/change_info"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#333333",
+    "selectedColor": "#1296db",
+    "borderStyle": "black",
+    "backgroundColor": "#fafafa",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "static/tabbar1.png",
+        "selectedIconPath": "static/logo.png",
+        "text": "home"
+      },
+      {
+        "pagePath": "pages/stuff/stuff",
+        "iconPath": "static/tabbar2.png",
+        "selectedIconPath": "static/logo.png",
+        "text": "stuff"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "static/tabbar2.png",
+        "selectedIconPath": "static/logo.png",
+        "text": "user"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

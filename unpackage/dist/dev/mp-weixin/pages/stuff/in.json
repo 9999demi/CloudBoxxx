@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "in",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-calendar": "/node-modules/uview-ui/components/u-calendar/u-calendar",
+    "u-subsection": "/node-modules/uview-ui/components/u-subsection/u-subsection",
+    "u-field": "/node-modules/uview-ui/components/u-field/u-field",
+    "u-toast": "/node-modules/uview-ui/components/u-toast/u-toast",
+    "u-collapse": "/node-modules/uview-ui/components/u-collapse/u-collapse",
+    "u-collapse-item": "/node-modules/uview-ui/components/u-collapse-item/u-collapse-item",
+    "u-form": "/node-modules/uview-ui/components/u-form/u-form",
+    "u-form-item": "/node-modules/uview-ui/components/u-form-item/u-form-item",
+    "u-input": "/node-modules/uview-ui/components/u-input/u-input",
+    "u-upload": "/node-modules/uview-ui/components/u-upload/u-upload",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "adm_register",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-form-item": "/node-modules/uview-ui/components/u-form-item/u-form-item"
+  }
+}

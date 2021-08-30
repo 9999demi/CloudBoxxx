@@ -1,0 +1,23 @@
+{
+  "name": "testcloudbox",
+  "version": "1.0.0",
+  "description": "CloudBox_Frontend",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MARYscu/CloudBox_FE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MARYscu/CloudBox_FE/issues"
+  },
+  "homepage": "https://github.com/MARYscu/CloudBox_FE#readme",
+  "dependencies": {
+    "uview-ui": "^1.8.4"
+  }
+}

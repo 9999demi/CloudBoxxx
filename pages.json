@@ -1,0 +1,113 @@
+{
+	"easycom": {
+			"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
+		
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationBarTitleText": "home",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "user",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/stuff/stuff",
+			"style": {
+				"navigationBarTitleText": "stuff",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/user/modechoose",
+			"style": {
+				"navigationBarTitleText": "modechoose",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/user/stu_register",
+			"style": {
+				"navigationBarTitleText": "stu_register",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/user/adm_register",
+			"style": {
+				"navigationBarTitleText": "adm_register",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/user/change_info",
+			"style": {
+				"navigationBarTitleText": "change_info",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/stuff/in",
+			"style": {
+				"navigationBarTitleText": "in",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/stuff/out",
+			"style": {
+				"navigationBarTitleText": "in",
+				"enablePullDownRefresh": true
+			}
+		}
+		
+	    ,{
+            "path" : "pages/user/user_info",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"tabBar": {
+		"color": "#333333",
+		"selectedColor": "#1296db",
+		"borderStyle": "black",
+		"backgroundColor": "#fafafa",
+		"list": [{
+				"pagePath": "pages/home/home",
+				"iconPath": "static/tabbar1.png",
+				"selectedIconPath": "static/logo.png",
+				"text": "home"
+			},
+			{
+				"pagePath": "pages/stuff/stuff",
+				"iconPath": "static/tabbar2.png",
+				"selectedIconPath": "static/logo.png",
+				"text": "stuff"
+			},
+			{
+				"pagePath": "pages/user/user",
+				"iconPath": "static/tabbar2.png",
+				"selectedIconPath": "static/logo.png",
+				"text": "user"
+			}
+		]
+	},
+	
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

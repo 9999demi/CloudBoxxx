@@ -1,0 +1,54 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/user/stu_register",
+          "pathName": "pages/user/stu_register",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/user/modechoose",
+          "pathName": "pages/user/modechoose",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/user/adm_register",
+          "pathName": "pages/user/adm_register",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/user/user",
+          "pathName": "pages/user/user",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/user/user_info",
+          "pathName": "pages/user/user_info",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/user/change_info",
+          "pathName": "pages/user/change_info",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

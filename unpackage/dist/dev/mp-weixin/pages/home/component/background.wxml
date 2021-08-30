@@ -1,0 +1,1 @@
+<view class="userinfo">hi<get-user-info vue-id="52cde942-1" bind:__l="__l"></get-user-info><get-user-phone vue-id="52cde942-2" bind:__l="__l"></get-user-phone><slot name="content"></slot></view>
